@@ -1,0 +1,8 @@
+name="xy"
+main="src/index.ts"
+
+compatibility_date = "2024-06-03"
+
+kv_namespaces = [
+    { binding = "xy_chats", id = "<id>", preview_id = "<preview_id>"}
+]
